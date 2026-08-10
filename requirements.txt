@@ -1,6 +1,6 @@
-streamlit==1.38.0
-yfinance==0.2.43
-pandas==2.2.2
-pandas-ta==0.3.14b0
-plotly==5.24.0
-anthropic==0.34.2
+streamlit
+yfinance
+pandas
+pandas-ta
+plotly
+anthropic
