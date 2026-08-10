@@ -1,6 +1,0 @@
-streamlit
-yfinance
-pandas
-pandas-ta
-plotly
-anthropic
